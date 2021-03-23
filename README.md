@@ -1,6 +1,7 @@
-# Here are some tools for assembly language including masm5.0 and debug.
+# Here are some tools for assembly language
 |File name|Note|
 |----|----|
-|masm.exe|masm5.0|
+|DOSBox0.74-3-win32-installer.exe|DOS simulator|
 |debug.exe||
+|masm.exe|masm5.0|
 |link.exe|Overlay Linker3.60|
